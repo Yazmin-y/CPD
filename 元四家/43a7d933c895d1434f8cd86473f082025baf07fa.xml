@@ -1,0 +1,26 @@
+<annotation>
+	<folder>元四家</folder>
+	<filename>43a7d933c895d1434f8cd86473f082025baf07fa.webp</filename>
+	<path>/Users/yuuekiketa/Downloads/元四家/43a7d933c895d1434f8cd86473f082025baf07fa.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1273</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bamboo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>310</ymin>
+			<xmax>790</xmax>
+			<ymax>1204</ymax>
+		</bndbox>
+	</object>
+</annotation>

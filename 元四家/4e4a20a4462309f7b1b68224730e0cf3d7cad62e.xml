@@ -1,0 +1,26 @@
+<annotation>
+	<folder>元四家</folder>
+	<filename>4e4a20a4462309f7b1b68224730e0cf3d7cad62e.webp</filename>
+	<path>/Users/yuuekiketa/Downloads/元四家/4e4a20a4462309f7b1b68224730e0cf3d7cad62e.webp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>973</width>
+		<height>759</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>179</xmin>
+			<ymin>7</ymin>
+			<xmax>944</xmax>
+			<ymax>551</ymax>
+		</bndbox>
+	</object>
+</annotation>
