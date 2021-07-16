@@ -1,0 +1,26 @@
+<annotation>
+	<folder>湖州竹派</folder>
+	<filename>gra25.jpg</filename>
+	<path>D:\迁移学习\湖州竹派\gra25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>237</width>
+		<height>776</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bamboo</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>100</ymin>
+			<xmax>237</xmax>
+			<ymax>592</ymax>
+		</bndbox>
+	</object>
+</annotation>
